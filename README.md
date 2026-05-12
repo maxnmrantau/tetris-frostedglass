@@ -1,3 +1,5 @@
+<img width="1009" height="905" alt="image" src="https://github.com/user-attachments/assets/841c47ae-45ea-4b9d-bd32-141ade8e8ef1" />
+
 # Tetris Modern Minimalist (Frosted Glass Edition)
 
 Sebuah adaptasi modern dari game klasik Tetris dengan estetika desain **Frosted Glass** yang elegan, animasi yang halus, dan efek suara sintetis yang imersif. Dikembangkan menggunakan React dan Vite.
